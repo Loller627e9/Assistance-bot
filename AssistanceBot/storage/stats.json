@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "EXAMPLE_TOKEN_1": {
+      "name": "EXAM...EN_1",
+      "commands": 0,
+      "coins": 0,
+      "lastTotal": 0,
+      "catches": 0,
+      "items": 0,
+      "animals": 0,
+      "failures": 0
+    },
+    "m": {
+      "name": "skibiditoiletfr5",
+      "commands": 8,
+      "coins": 27564595,
+      "lastTotal": 27564595,
+      "catches": 3,
+      "items": 1,
+      "animals": 2,
+      "failures": 0
+    },
+    "m": {
+      "name": "loller_71961",
+      "commands": 6,
+      "coins": 50081263,
+      "lastTotal": 50081263,
+      "catches": 3,
+      "items": 1,
+      "animals": 2,
+      "failures": 0
+    },
+    "O": {
+      "name": "smchaser.",
+      "commands": 4,
+      "coins": 0,
+      "lastTotal": 0,
+      "catches": 0,
+      "items": 0,
+      "animals": 0,
+      "failures": 0
+    },
+    "O": {
+      "name": "gamerkid5300",
+      "commands": 4,
+      "coins": 26159746,
+      "lastTotal": 26159746,
+      "catches": 2,
+      "items": 1,
+      "animals": 1,
+      "failures": 0
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "dank-memer-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that manages multiple Dank Memer accounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "node -c index.js && node -c grinder.js && node -c handlers.js",
+    "setup": "npm install && echo 'Setup complete! Edit config.json with your bot token and owner ID.'"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "dank",
+    "memer"
+  ],
+  "author": "OpenHands",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^3.7.0"
+  }
+}
